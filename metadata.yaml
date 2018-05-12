@@ -1,0 +1,44 @@
+_repo: As-obras-dos-Jeronymos--13-em-sess-o-de-7-de-Novembro-de-1895_29567
+_version: 0.1.0
+alternative_title: "As obras dos Jerónimos \r\nparecer apresentado à Comissão dos\
+  \ Monumentos Nacionais \r\nem sessão de 7 de novembro de 1895"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cordeiro, Luciano
+    alias: Sousa, Luciano Batista Cordeiro de
+    birthdate: 1844
+    deathdate: 1900
+    gutenberg_agent_id: '26771'
+    url: http://www.gutenberg.org/2009/agents/26771
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Luciano_Cordeiro
+    - http://en.wikipedia.org/wiki/Luciano_Cordeiro
+description: ''
+gutenberg_issued: '2009-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29567'
+  lccn: '41032616'
+language: pt
+language_note:
+- This ebook uses 19th century spelling
+- "Este livro eletrónico usa a ortografia da edição em papel do século XIX.\r\nPara\
+  \ ajudar o Project Gutenberg a atualizar a ortografia desta obra, visite a página\
+  \ http://www.gutenberg.org/wiki/PT_Ortografia ."
+production_note: Produced by Rita Farinha and the Online Distributed Proofreading
+  Team at http://www.pgdp.net (This file was produced from images generously made
+  available by National Library of Portugal (Biblioteca Nacional de Portugal).)
+publication_note: "Lisboa:\r\nTypographia - Casa Portuguesa - Papelaria 139 - Rua\
+  \ de S. Roque - 141\r\n1895"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Santa Maria de Belem (Church : Lisbon, Portugal)'
+title: "As obras dos Jeronymos\r\nparecer apresentado à Commissão dos Monumentos Nacionaes\r\
+  \nem sessão de 7 de Novembro de 1895"
+url: http://www.gutenberg.org/ebooks/29567

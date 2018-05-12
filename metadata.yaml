@@ -17,6 +17,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Luciano_Cordeiro
     - http://en.wikipedia.org/wiki/Luciano_Cordeiro
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29567#As-obras-dos-Jeronymos--13-em-sess-o-de-7-de-Novembro-de-1895
 gutenberg_issued: '2009-08-01'
 gutenberg_type: Text
 identifiers:
